@@ -1,0 +1,48 @@
+span.fa.fa-facebook, 
+.fa.fa-twitter, 
+.fa.fa-instagram, 
+.fa.fa-google-plus, 
+.fa.fa-linkedin {
+    color: white;
+}
+
+
+.main-header .header-lower .search-box-outer {
+    position: relative;
+    min-width: 70px;
+    padding-right: 59px;
+    padding-left: 10px;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    display: inline-block;
+    border-right: 1px solid #eeeeee;
+}
+
+.info-list li {
+    position: relative;
+    color: navy;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 6px;
+    margin-bottom: 7px;
+}
+
+.contact-section .form-column .text {
+    position: relative;
+    color: black;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.text p {
+    color: black;
+}
+
+.about-section .author-info .content-column .content-inner .text p {
+    position: relative;
+    color: black;
+    font-size: 15px;
+    line-height: 1.8em;
+    margin-bottom: 20px;
+}
